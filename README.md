@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Andreas
 #### I am a student at Mid Sweden University
 
-Skills:  / JS / HTML / CSS / PHP
+Skills:  / JS / HTML / CSS / PHP / SCSS
 
 - 🌱 I’m currently learning Git 
 - 📫 How to reach me: andsveweb@gmail.com 
