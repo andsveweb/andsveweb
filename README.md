@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Andreas
-#### I am a student at Mid Sweden University
 
-Skills:  / JS / HTML / CSS / PHP / SCSS / VUE
+Skills:  / JS / HTML / CSS / PHP / SCSS / VUE / JAVA / PYTHON
 
-- 🌱 I’m currently learning VUE.JS 
+- 🌱 I’m currently learning JAVA, PYTHON 
 - 📫 How to reach me: andsveweb@gmail.com 
 
 
