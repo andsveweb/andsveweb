@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Andreas
 
-Skills:  / JS / HTML / CSS / PHP / SCSS / VUE / JAVA / PYTHON
+Skills:  / JS / HTML / CSS / PHP / SCSS / VUE.JS / JAVA / PYTHON
 
 - 🌱 I’m currently learning JAVA, PYTHON 
 - 📫 How to reach me: andsveweb@gmail.com 
