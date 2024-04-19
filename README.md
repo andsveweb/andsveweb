@@ -2,7 +2,7 @@
 
 Skills:  / JAVASCRIPT / HTML / CSS / PHP / SCSS / VUE.JS / JAVA / PYTHON / KOTLIN
 
-- 🌱 I’m currently learning KOTLIN, PYTHON 
+- 🌱 I’m currently learning JAVA 
 - 📫 How to reach me: andsveweb@gmail.com 
 
 
