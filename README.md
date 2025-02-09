@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Andreas
 
-Skills:  / JAVASCRIPT / HTML / CSS / PHP / SCSS / VUE.JS / JAVA / PYTHON / KOTLIN / .NET
+Skills:  / JAVASCRIPT / HTML / CSS / PHP / SCSS / VUE.JS / JAVA / PYTHON / KOTLIN / .NET / BLAZOR
  
 - 📫 How to reach me: andsveweb@gmail.com 
 
